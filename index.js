@@ -127,7 +127,7 @@ const bindEvents = () => {
           ? process.env.nick
           : process.argv[3]
           ? process.argv[3]
-          : "AternosBot"
+          : "SSBotik"
       );
       bindEvents();
       return;
